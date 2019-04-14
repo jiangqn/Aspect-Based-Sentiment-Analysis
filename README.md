@@ -105,6 +105,8 @@ The task consists of the following subtasks:
 
 - **DECNN**: Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction. ACL 2018. [[paper]][18] [[code]][40]
 
+- **Unified**: A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. AAAI 2019. [[paper]][53] [[code]][54]
+
 - Aspect Term Extraction with History Attention and Selective Transformation. IJCAI 2018. [[paper]][19]
 
 - Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms. AAAI 2017. [[paper]][20]
@@ -161,3 +163,5 @@ The task consists of the following subtasks:
 [50]: https://github.com/howardhsu/BERT-for-RRC-ABSA
 [51]: https://arxiv.org/pdf/1903.09588.pdf
 [52]: https://github.com/HSLCY/ABSA-BERT-pair
+[53]: https://arxiv.org/pdf/1811.05082.pdf
+[54]: https://github.com/lixin4ever/E2E-TBSA
