@@ -10,25 +10,29 @@ A paper list for aspect based sentiment analysis
 
 #### RNN based model
 
-- **TD_LSTM** Effective LSTMs for Target-Dependent Sentiment Classification. COLING 2016. [[paper]][8] [[code]][21]
+- **TD_LSTM**: Effective LSTMs for Target-Dependent Sentiment Classification. COLING 2016. [[paper]][8] [[code]][21]
 
 #### CNN based model
 
-- **GCAE** Aspect Based Sentiment Analysis with Gated Convolutional Networks. ACL 2018. [[paper]][2] [[code]][22]
+- **GCAE**: Aspect Based Sentiment Analysis with Gated Convolutional Networks. ACL 2018. [[paper]][2] [[code]][22]
 
 #### Attention based model
 
-- **MemNet** Aspect Level Sentiment Classification with Deep Memory Network. EMNLP 2016. [[paper]][6] [[code]][23]
+- **MemNet**: Aspect Level Sentiment Classification with Deep Memory Network. EMNLP 2016. [[paper]][6] [[code]][23]
 
-- **DAuM** Enhanced Aspect Level Sentiment Classification with Auxiliary Memory. COLING 2018. [[paper]][11] [[code]][24]
+- **DAuM**: Enhanced Aspect Level Sentiment Classification with Auxiliary Memory. COLING 2018. [[paper]][11] [[code]][24]
+
+- **AEN**: Attentional Encoder Network for Targeted Sentiment Classification. arXiv preprint 2019. [[paper]][28] [[code]][29]
 
 #### RNN and Attention based model
 
-- **ATAE_LSTM** Attention-based LSTM for Aspect-level Sentiment Classification. EMNLP 2016. [[paper]][10] [[code]][25]
+- **ATAE_LSTM**: Attention-based LSTM for Aspect-level Sentiment Classification. EMNLP 2016. [[paper]][10] [[code]][25]
 
-- **IAN** Interactive Attention Networks for Aspect-Level Sentiment Classification. IJCAI 2017. [[paper]][1] [[code]][26]
+- **IAN**: Interactive Attention Networks for Aspect-Level Sentiment Classification. IJCAI 2017. [[paper]][1] [[code]][26]
 
 - Effective Attention Modeling for Aspect-Level Sentiment Classification. COLING 2018. [[paper]][3]
+
+- **MGAN**: Multi-grained Attention Network for Aspect-LevelSentiment Classification. ACL 2018. [[paper]][30] [[code]][31]
 
 #### RecursiveNN based model
 
@@ -38,9 +42,11 @@ A paper list for aspect based sentiment analysis
 
 #### BERT base model
 
+- **AEN_BERT / BERT_SPC**: Attentional Encoder Network for Targeted Sentiment Classification. arXiv preprint 2019. [[paper]][28] [[code]][29]
+
 #### Transfer learning model
 
-- **MGAN** Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification. AAAI 2019. [[paper]][12] [[data]][27]
+- **MGAN**: Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification. AAAI 2019. [[paper]][12] [[data]][27]
 
 - Exploiting Document Knowledge for Aspect-level Sentiment Classification. ACL 2018. [[paper]][9]
 
@@ -62,7 +68,7 @@ A paper list for aspect based sentiment analysis
 
 - An Unsupervised Neural Attention Model for Aspect Extraction. ACL 2017. [[paper]][17]
 
-- Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction. ACL 2018. [[paper]][18]
+- **DECNN**: Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction. ACL 2018. [[paper]][18]
 
 - Aspect Term Extraction with History Attention and Selective Transformation. IJCAI 2018. [[paper]][19]
 
@@ -95,3 +101,7 @@ A paper list for aspect based sentiment analysis
 [25]: https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/atae_lstm.py
 [26]: https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/ian.py
 [27]: https://github.com/hsqmlzno1/MGAN
+[28]: https://arxiv.org/pdf/1902.09314.pdf
+[29]: https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aen.py
+[30]: https://aclweb.org/anthology/D18-1380
+[31]: https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/mgan.py
