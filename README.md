@@ -21,7 +21,7 @@ The task consists of the following subtasks:
 
 ### SentiHood
 
-- **SentiHood**: Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods. [[paper]][43] [[data]][44]
+- **SentiHood**: Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods. COLING 2016. [[paper]][43] [[data]][44]
 
 ## Paper List
 
@@ -30,6 +30,8 @@ The task consists of the following subtasks:
 #### RNN based model
 
 - **TD_LSTM**: Effective LSTMs for Target-Dependent Sentiment Classification. COLING 2016. [[paper]][8] [[code]][21]
+
+- **DMUE**: Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-based Sentiment Analysis. NAACL 2018. [[paper]][47] [[code]][48]
 
 #### CNN based model
 
@@ -51,7 +53,7 @@ The task consists of the following subtasks:
 
 - **IAN**: Interactive Attention Networks for Aspect-Level Sentiment Classification. IJCAI 2017. [[paper]][1] [[code]][26]
 
-- **SysATT** Effective Attention Modeling for Aspect-Level Sentiment Classification. COLING 2018. [[paper]][3]
+- **SysATT**: Effective Attention Modeling for Aspect-Level Sentiment Classification. COLING 2018. [[paper]][3]
 
 - **MGAN**: Multi-grained Attention Network for Aspect-LevelSentiment Classification. ACL 2018. [[paper]][30] [[code]][31]
 
@@ -149,3 +151,5 @@ The task consists of the following subtasks:
 [44]: https://github.com/uclmr/jack/tree/master/data/sentihood
 [45]: http://alt.qcri.org/semeval2014/task4/
 [46]: https://github.com/ThomasK427/aspect_extraction/tree/master/data/official_data/SemEval-2014
+[47]: https://aclweb.org/anthology/N18-2045
+[48]: https://github.com/liufly/delayed-memory-update-entnet
