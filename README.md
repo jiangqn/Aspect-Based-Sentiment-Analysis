@@ -1,6 +1,6 @@
 # Aspect-Base-Sentiment-Analysis
 
-A paper list for aspect based sentiment analysis
+A paper list for aspect based sentiment analysis.
 
 ## Datasets
 
@@ -74,6 +74,10 @@ The task consists of the following subtasks:
 #### BERT base model
 
 - **AEN_BERT / BERT_SPC**: Attentional Encoder Network for Targeted Sentiment Classification. arXiv preprint 2019. [[paper]][28] [[code]][29]
+
+- **BERT_PT**: BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis. NAACL 2019. [[paper]][49] [[code]][50]
+
+- **BERT-pair**: Utilizing BERT for Aspect-Based Sentiment Analysisvia Constructing Auxiliary Sentence. NAACL 2019. [[paper]][51] [[code]][52]
 
 #### Transfer learning model
 
@@ -153,3 +157,7 @@ The task consists of the following subtasks:
 [46]: https://github.com/ThomasK427/aspect_extraction/tree/master/data/official_data/SemEval-2014
 [47]: https://aclweb.org/anthology/N18-2045
 [48]: https://github.com/liufly/delayed-memory-update-entnet
+[49]: https://arxiv.org/pdf/1904.02232v1.pdf
+[50]: https://github.com/howardhsu/BERT-for-RRC-ABSA
+[51]: https://arxiv.org/pdf/1903.09588.pdf
+[52]: https://github.com/HSLCY/ABSA-BERT-pair
