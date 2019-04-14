@@ -24,7 +24,7 @@ A paper list for aspect based sentiment analysis
 
 - **AEN**: Attentional Encoder Network for Targeted Sentiment Classification. arXiv preprint 2019. [[paper]][28] [[code]][29]
 
-#### RNN and Attention based model
+#### RNN & Attention based model
 
 - **ATAE_LSTM**: Attention-based LSTM for Aspect-level Sentiment Classification. EMNLP 2016. [[paper]][10] [[code]][25]
 
@@ -33,6 +33,14 @@ A paper list for aspect based sentiment analysis
 - Effective Attention Modeling for Aspect-Level Sentiment Classification. COLING 2018. [[paper]][3]
 
 - **MGAN**: Multi-grained Attention Network for Aspect-LevelSentiment Classification. ACL 2018. [[paper]][30] [[code]][31]
+
+- **AOA_LSTM**: Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks. SBP-BRiMS 2018. [[paper]][32] [[code]][33]
+
+- **Cabasc**: Content Attention Model for Aspect Based Sentiment Analysis. WWW 2018. [[paper]][36] [[code]][37]
+
+#### RNN & CNN based model
+
+- **TNet**: Transformation Networks for Target-Oriented Sentiment Classification. ACL 2018. [[paper]][34] [[code]][35]
 
 #### RecursiveNN based model
 
@@ -105,3 +113,9 @@ A paper list for aspect based sentiment analysis
 [29]: https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aen.py
 [30]: https://aclweb.org/anthology/D18-1380
 [31]: https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/mgan.py
+[32]: https://arxiv.org/pdf/1804.06536.pdf
+[33]: https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aoa.py
+[34]: https://arxiv.org/pdf/1805.01086.pdf
+[35]: https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/tnet_lf.py
+[36]: http://delivery.acm.org/10.1145/3190000/3186001/p1023-liu.pdf?ip=210.75.253.235&id=3186001&acc=OPEN&key=33E289E220520BFB%2E6FFDCCEC948C43C2%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1555218179_72930af7a4eda051856a87b787ca5863
+[37]: https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/cabasc.py
