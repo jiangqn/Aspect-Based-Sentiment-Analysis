@@ -4,6 +4,25 @@ A paper list for aspect based sentiment analysis
 
 ## Datasets
 
+### SemEval-2014 Task 4
+
+The [SemEval-2014 Task 4][45] contains two domain-specific datasets for laptops and restaurants, consisting of over 6K sentences with fine-grained aspect-level human annotations. [[data]][46]
+
+The task consists of the following subtasks:
+
+- Subtask 1: Aspect term extraction
+
+- Subtask 2: Aspect term polarity
+
+- Subtask 3: Aspect category detection
+
+- Subtask 4: Aspect category polarity
+
+
+### SentiHood
+
+- **SentiHood**: Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods. [[paper]][43] [[data]][44]
+
 ## Paper List
 
 ### Aspect Base Sentiment Classification
@@ -28,9 +47,11 @@ A paper list for aspect based sentiment analysis
 
 - **ATAE_LSTM**: Attention-based LSTM for Aspect-level Sentiment Classification. EMNLP 2016. [[paper]][10] [[code]][25]
 
+- **RAM**: Recurrent Attention Network on Memory for Aspect Sentiment Analysis. EMNLP 2017. [[paper]][41] [[code]][42]
+
 - **IAN**: Interactive Attention Networks for Aspect-Level Sentiment Classification. IJCAI 2017. [[paper]][1] [[code]][26]
 
-- Effective Attention Modeling for Aspect-Level Sentiment Classification. COLING 2018. [[paper]][3]
+- **SysATT** Effective Attention Modeling for Aspect-Level Sentiment Classification. COLING 2018. [[paper]][3]
 
 - **MGAN**: Multi-grained Attention Network for Aspect-LevelSentiment Classification. ACL 2018. [[paper]][30] [[code]][31]
 
@@ -56,7 +77,7 @@ A paper list for aspect based sentiment analysis
 
 - **MGAN**: Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification. AAAI 2019. [[paper]][12] [[data]][27]
 
-- Exploiting Document Knowledge for Aspect-level Sentiment Classification. ACL 2018. [[paper]][9]
+- **PRET & MULT**: Exploiting Document Knowledge for Aspect-level Sentiment Classification. ACL 2018. [[paper]][9] [[code]][38]
 
 #### Hierarchical model
 
@@ -74,9 +95,9 @@ A paper list for aspect based sentiment analysis
 
 ### Aspect Extraction
 
-- An Unsupervised Neural Attention Model for Aspect Extraction. ACL 2017. [[paper]][17]
+- **ABAE**: An Unsupervised Neural Attention Model for Aspect Extraction. ACL 2017. [[paper]][17] [[code]][39]
 
-- **DECNN**: Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction. ACL 2018. [[paper]][18]
+- **DECNN**: Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction. ACL 2018. [[paper]][18] [[code]][40]
 
 - Aspect Term Extraction with History Attention and Selective Transformation. IJCAI 2018. [[paper]][19]
 
@@ -119,3 +140,12 @@ A paper list for aspect based sentiment analysis
 [35]: https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/tnet_lf.py
 [36]: http://delivery.acm.org/10.1145/3190000/3186001/p1023-liu.pdf?ip=210.75.253.235&id=3186001&acc=OPEN&key=33E289E220520BFB%2E6FFDCCEC948C43C2%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1555218179_72930af7a4eda051856a87b787ca5863
 [37]: https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/cabasc.py
+[38]: https://github.com/ruidan/Aspect-level-sentiment
+[39]: https://github.com/ruidan/Unsupervised-Aspect-Extraction
+[40]: https://github.com/yafangy/Review_aspect_extraction
+[41]: https://www.aclweb.org/anthology/D17-1047
+[42]: https://github.com/lpq29743/RAM
+[43]: https://www.aclweb.org/anthology/C16-1146
+[44]: https://github.com/uclmr/jack/tree/master/data/sentihood
+[45]: http://alt.qcri.org/semeval2014/task4/
+[46]: https://github.com/ThomasK427/aspect_extraction/tree/master/data/official_data/SemEval-2014
