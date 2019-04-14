@@ -1,4 +1,4 @@
-# Aspect-Base-Sentiment-Analysis
+# Aspect-Based-Sentiment-Analysis
 
 A paper list for aspect based sentiment analysis.
 
