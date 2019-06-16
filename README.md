@@ -23,6 +23,10 @@ The task consists of the following subtasks:
 
 - **SentiHood**: Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods. COLING 2016. [[paper]][43] [[data]][44]
 
+### TOWE
+
+- **TOWE**: Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. NACCL 2019. [[paper]][55] [[data]][56]
+
 ## Paper List
 
 ### Aspect Base Sentiment Classification
@@ -111,6 +115,10 @@ The task consists of the following subtasks:
 
 - Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms. AAAI 2017. [[paper]][20]
 
+### Target-oriented Opinion Words Extraction
+
+- **IOG**: Target-oriented Opinion Words Extraction with Target-fused NeuralSequence Labeling. NAACL 2019. [[paper]][55] [[data]][56]
+
 [1]: https://arxiv.org/abs/1709.00893
 [2]: https://arxiv.org/abs/1805.07043v1
 [3]: http://aclweb.org/anthology/C18-1096
@@ -165,3 +173,5 @@ The task consists of the following subtasks:
 [52]: https://github.com/HSLCY/ABSA-BERT-pair
 [53]: https://arxiv.org/pdf/1811.05082.pdf
 [54]: https://github.com/lixin4ever/E2E-TBSA
+[55]: https://www.aclweb.org/anthology/N19-1259
+[56]: https://github.com/NJUNLP/TOWE
