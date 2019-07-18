@@ -89,6 +89,10 @@ The task consists of the following subtasks:
 
 - **PRET & MULT**: Exploiting Document Knowledge for Aspect-level Sentiment Classification. ACL 2018. [[paper]][9] [[code]][38]
 
+### Graph neural network based model
+
+- **SDGCN**: Modeling Sentiment Dependencies with Graph Convolutional Networks for Aspect-levelSentiment Classification. arXiv preprint 2019. [[paper]][57] [[code]][58]
+
 #### Hierarchical model
 
 - Aspect Specific Sentiment Analysis using Hierarchical Deep Learning. NIPS 2014 workshop. [[paper]][5]
@@ -175,3 +179,5 @@ The task consists of the following subtasks:
 [54]: https://github.com/lixin4ever/E2E-TBSA
 [55]: https://www.aclweb.org/anthology/N19-1259
 [56]: https://github.com/NJUNLP/TOWE
+[57]: https://arxiv.org/pdf/1906.04501.pdf
+[58]: https://github.com/Pinlong-Zhao/SDGCN
