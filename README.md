@@ -27,6 +27,10 @@ The task consists of the following subtasks:
 
 - **TOWE**: Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. NACCL 2019. [[paper]][55] [[data]][56]
 
+### MAMS
+
+- **MAMS**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. EMNLP-IJCNLP 2019. [[data]][59]
+
 ## Paper List
 
 ### Aspect Base Sentiment Classification
@@ -181,3 +185,4 @@ The task consists of the following subtasks:
 [56]: https://github.com/NJUNLP/TOWE
 [57]: https://arxiv.org/pdf/1906.04501.pdf
 [58]: https://github.com/Pinlong-Zhao/SDGCN
+[59]: https://github.com/siat-nlp/MAMS-for-ABSA
