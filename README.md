@@ -53,6 +53,8 @@ The task consists of the following subtasks:
 
 - **AEN**: Attentional Encoder Network for Targeted Sentiment Classification. arXiv preprint 2019. [[paper]][28] [[code]][29]
 
+- Progressive Self-Supervised Attention Learning forAspect-Level Sentiment Analysis. ACL 2019. [[paper]][64] [[code]][65]
+
 #### RNN & Attention based model
 
 - **ATAE_LSTM**: Attention-based LSTM for Aspect-level Sentiment Classification. EMNLP 2016. [[paper]][10] [[code]][25]
@@ -79,6 +81,12 @@ The task consists of the following subtasks:
 
 - PhraseRNN: Phrase Recursive Neural Network for Aspect-based Sentiment Analysis. EMNLP 2015. [[paper]][7]
 
+#### Capsule network based model
+
+- **CapsNet**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. EMNLP-IJCNLP 2019. [paper] [code][59]
+
+- Transfer Capsule Network for Aspect Level Sentiment Classification. ACL 2019. [[paper]][62] [[code]][63]
+
 #### BERT base model
 
 - **AEN_BERT / BERT_SPC**: Attentional Encoder Network for Targeted Sentiment Classification. arXiv preprint 2019. [[paper]][28] [[code]][29]
@@ -87,11 +95,17 @@ The task consists of the following subtasks:
 
 - **BERT-pair**: Utilizing BERT for Aspect-Based Sentiment Analysisvia Constructing Auxiliary Sentence. NAACL 2019. [[paper]][51] [[code]][52]
 
+- **CapsNet-BERT**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. EMNLP-IJCNLP 2019. [paper] [code][59]
+
 #### Transfer learning model
 
 - **MGAN**: Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification. AAAI 2019. [[paper]][12] [[data]][27]
 
 - **PRET & MULT**: Exploiting Document Knowledge for Aspect-level Sentiment Classification. ACL 2018. [[paper]][9] [[code]][38]
+
+#### Multi-Task learning model
+
+- An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis. ACL 2019. [[paper]][60] [[code]][61]
 
 ### Graph neural network based model
 
@@ -122,6 +136,12 @@ The task consists of the following subtasks:
 - Aspect Term Extraction with History Attention and Selective Transformation. IJCAI 2018. [[paper]][19]
 
 - Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms. AAAI 2017. [[paper]][20]
+
+- Annotation and Automatic Classification of Aspectual Categories. ACL 2019. [[paper]][66] [[code]][67]
+
+- Exploring Sequence-to-Sequence Learning in Aspect Term Extraction. ACL 2019. [[paper]][68]
+
+- DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction. ACL 2019. [[paper]][69] [[code]][70]
 
 ### Target-oriented Opinion Words Extraction
 
@@ -186,3 +206,14 @@ The task consists of the following subtasks:
 [57]: https://arxiv.org/pdf/1906.04501.pdf
 [58]: https://github.com/Pinlong-Zhao/SDGCN
 [59]: https://github.com/siat-nlp/MAMS-for-ABSA
+[60]: https://www.aclweb.org/anthology/P19-1048
+[61]: https://github.com/ruidan/IMN-E2E-ABSA
+[62]: https://www.aclweb.org/anthology/P19-1052
+[63]: https://github.com/NLPWM-WHU/TransCap
+[64]: https://www.aclweb.org/anthology/P19-1053
+[65]: https://github.com/DeepLearnXMU/PSSAttention
+[66]: https://www.aclweb.org/anthology/P19-1323
+[67]: https://github.com/wroberts/annotator
+[68]: https://www.aclweb.org/anthology/P19-1344
+[69]: https://www.aclweb.org/anthology/P19-1056
+[70]: https://github.com/ArrowLuo/DOER
