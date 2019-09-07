@@ -83,7 +83,7 @@ The task consists of the following subtasks:
 
 #### Capsule network based model
 
-- **CapsNet**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. EMNLP-IJCNLP 2019. [paper] [code][59]
+- **CapsNet**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. EMNLP-IJCNLP 2019. [paper] [[code]][59]
 
 - Transfer Capsule Network for Aspect Level Sentiment Classification. ACL 2019. [[paper]][62] [[code]][63]
 
