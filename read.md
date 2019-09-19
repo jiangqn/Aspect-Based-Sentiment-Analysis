@@ -10,11 +10,11 @@ A paper list for aspect based sentiment analysis.
 
 ### MAMS
 
-- **[EMNLP-19]**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. EMNLP-IJCNLP 2019. [paper] [[data]](https://github.com/siat-nlp/MAMS-for-ABSA)
+- **[EMNLP-19]**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. [paper] [[data]](https://github.com/siat-nlp/MAMS-for-ABSA)
 
 ### Twitter
 
-- **[ACL-14]**: 
+- **[ACL-14]**: Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification. 
 
 ### SentiHood
 
