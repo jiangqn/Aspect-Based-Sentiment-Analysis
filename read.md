@@ -10,15 +10,19 @@ A paper list for aspect based sentiment analysis.
 
 ### MAMS
 
-- **MAMS**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. EMNLP-IJCNLP 2019. [[data]][59]
+- **[EMNLP-19]**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. EMNLP-IJCNLP 2019. [paper] [[data]](https://github.com/siat-nlp/MAMS-for-ABSA)
+
+### Twitter
+
+- **[ACL-14]**: 
 
 ### SentiHood
 
-- **SentiHood**: Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods. COLING 2016. [[paper]][43] [[data]][44]
+- **[COLING-16]**: Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods. [[paper]](https://www.aclweb.org/anthology/C16-1146) [[data]](https://github.com/uclmr/jack/tree/master/data/sentihood)
 
 ### TOWE
 
-- **TOWE**: Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. NACCL 2019. [[paper]][55] [[data]][56]
+- **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. NACCL 2019. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[data]](https://github.com/NJUNLP/TOWE)
 
 ## Paper List
 
