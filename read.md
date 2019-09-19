@@ -47,3 +47,27 @@ A paper list for aspect based sentiment analysis.
 - **[EMNLP-16]**: A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D16-1103)
 
 - **[EMNLP-16]**: Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D16-1059)
+
+- **[IJCAI-17]**: Interactive Attention Networks for Aspect-Level Sentiment Classification. [[paper]](https://arxiv.org/abs/1709.00893) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/ian.py)
+
+- **[EMNLP-17]**: Recurrent Attention Network on Memory for Aspect Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D17-1047) [[code]](https://github.com/lpq29743/RAM)
+
+- **[WWW-18]**: Content Attention Model for Aspect Based Sentiment Analysis. [[paper]](http://delivery.acm.org/10.1145/3190000/3186001/p1023-liu.pdf?ip=210.75.253.235&id=3186001&acc=OPEN&key=33E289E220520BFB%2E6FFDCCEC948C43C2%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1555218179_72930af7a4eda051856a87b787ca5863) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/cabasc.py)
+
+- **[NAACL-18]**: Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis. [[paper]](http://www.aclweb.org/anthology/N18-2043)
+
+- **[NAACL-18]**: Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-based Sentiment Analysis. [[paper]](https://aclweb.org/anthology/N18-2045) [[code]](https://github.com/liufly/delayed-memory-update-entnet)
+
+- **[ACL-18]**: Exploiting Document Knowledge for Aspect-level Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/P18-2092) [[code]](https://github.com/ruidan/Aspect-level-sentiment)
+
+- **[ACL-18]**: Target-Sensitive Memory Networks for Aspect Sentiment Classification. [[paper]](http://www.aclweb.org/anthology/P18-1088)
+
+- **[ACL-18]**: Aspect Based Sentiment Analysis with Gated Convolutional Networks. [[paper]](https://www.aclweb.org/anthology/P18-1234) [[code]](https://github.com/wxue004cs/GCAE)
+
+- **[ACL-18]**: Multi-grained Attention Network for Aspect-LevelSentiment Classification. [[paper]](https://aclweb.org/anthology/D18-1380) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/mgan.py)
+
+- **[ACL-18]**: Transformation Networks for Target-Oriented Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/P18-1087) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/tnet_lf.py)
+
+- **[COLING-18]**: Effective Attention Modeling for Aspect-Level Sentiment Classification. [[paper]](http://aclweb.org/anthology/C18-1096)
+
+- **[COLING-18]**: Enhanced Aspect Level Sentiment Classification with Auxiliary Memory. [[paper]](https://www.aclweb.org/anthology/C18-1092) [[code]](https://github.com/ThomasK427/DAuM-pytorch)
