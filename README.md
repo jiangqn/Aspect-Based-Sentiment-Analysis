@@ -33,7 +33,7 @@ The task consists of the following subtasks:
 
 ## Paper List
 
-### Aspect Base Sentiment Classification
+### Aspect-Based Sentiment Classification
 
 #### RNN based model
 
