@@ -71,3 +71,43 @@ A paper list for aspect based sentiment analysis.
 - **[COLING-18]**: Effective Attention Modeling for Aspect-Level Sentiment Classification. [[paper]](http://aclweb.org/anthology/C18-1096)
 
 - **[COLING-18]**: Enhanced Aspect Level Sentiment Classification with Auxiliary Memory. [[paper]](https://www.aclweb.org/anthology/C18-1092) [[code]](https://github.com/ThomasK427/DAuM-pytorch)
+
+- **[AAAI-19]**: Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification. [[paper]](https://arxiv.org/abs/1811.10999) [[data]](https://github.com/hsqmlzno1/MGAN)
+
+- **[AAAI-19]**: A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. [[paper]](https://arxiv.org/pdf/1811.05082.pdf) [[code]](https://github.com/lixin4ever/E2E-TBSA)
+
+- **[NAACL-19]**: BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/N19-1242) [[code]](https://github.com/howardhsu/BERT-for-RRC-ABSA)
+
+- **[NAACL-19]**: Utilizing BERT for Aspect-Based Sentiment Analysisvia Constructing Auxiliary Sentence. [[paper]](https://www.aclweb.org/anthology/N19-1242) [[code]](https://github.com/HSLCY/ABSA-BERT-pair)
+
+- **[ACL-19]**: An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/P19-1048) [[code]](https://github.com/ruidan/IMN-E2E-ABSA)
+
+- **[ACL-19]**: Progressive Self-Supervised Attention Learning forAspect-Level Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/P19-1053) [[code]](https://github.com/DeepLearnXMU/PSSAttention)
+
+- **[ACL-19]**: Transfer Capsule Network for Aspect Level Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/P19-1052) [[code]](https://github.com/NLPWM-WHU/TransCap)
+
+- **[EMNLP-19]**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. [paper] [[code]](https://github.com/siat-nlp/MAMS-for-ABSA)
+
+- **[arXiv-19]**: Attentional Encoder Network for Targeted Sentiment Classification. [[paper]](https://arxiv.org/pdf/1902.09314.pdf) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aen.py)
+
+### Aspect Extraction
+
+- **[AAAI-17]**: Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms. [[paper]](https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/15-Wang-W-14441.pdf)
+
+- **[ACL-17]**: An Unsupervised Neural Attention Model for Aspect Extraction. [[paper]](http://aclweb.org/anthology/P/P17/P17-1036.pdf) [[code]](https://github.com/ruidan/Unsupervised-Aspect-Extraction)
+
+- **[IJCAI-18]**: Aspect Term Extraction with History Attention and Selective Transformation. [[paper]](https://arxiv.org/abs/1805.00760)
+
+- **[ACL-18]**: Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction. [[paper]](https://www.aclweb.org/anthology/P18-2094) [[code]](https://github.com/yafangy/Review_aspect_extraction)
+
+- **[AAAI-19]**: A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. [[paper]](https://arxiv.org/pdf/1811.05082.pdf) [[code]](https://github.com/lixin4ever/E2E-TBSA)
+
+- **[ACL-19]**: Annotation and Automatic Classification of Aspectual Categories. [[paper]](https://www.aclweb.org/anthology/P19-1323) [[code]](https://github.com/wroberts/annotator)
+
+- **[ACL-19]**: Exploring Sequence-to-Sequence Learning in Aspect Term Extraction. [[paper]](https://www.aclweb.org/anthology/P19-1344)
+
+- **[ACL-19]**: DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction. [[paper]](https://www.aclweb.org/anthology/P19-1056) [[code]](https://github.com/ArrowLuo/DOER)
+
+### Target-oriented Opinion Words Extraction
+
+- **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused NeuralSequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
