@@ -94,7 +94,7 @@ A paper list for aspect based sentiment analysis.
 
 - **[ACL-19]**: Transfer Capsule Network for Aspect Level Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/P19-1052) [[code]](https://github.com/NLPWM-WHU/TransCap)
 
-- **[EMNLP-19]**: Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks. [[paper]](https://arxiv.org/pdf/1909.03477.pdf) [[code]](https://arxiv.org/pdf/1909.03477.pdf)
+- **[EMNLP-19]**: Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks. [[paper]](https://arxiv.org/pdf/1909.03477.pdf) [[code]](https://github.com/GeneZC/ASGCN)
 
 - **[EMNLP-19]**: Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree. [paper]
 
