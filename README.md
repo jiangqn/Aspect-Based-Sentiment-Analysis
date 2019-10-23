@@ -74,6 +74,10 @@ A paper list for aspect based sentiment analysis.
 
 - **[COLING-18]**: Enhanced Aspect Level Sentiment Classification with Auxiliary Memory. [[paper]](https://www.aclweb.org/anthology/C18-1092) [[code]](https://github.com/ThomasK427/DAuM-pytorch)
 
+- **[COLING-18]**: A Position-aware Bidirectional Attention Network for Aspect-levelSentiment Analysis. [[paper]](https://www.aclweb.org/anthology/C18-1066.pdf)
+
+- **[EMNLP-18]**: IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis. [[paper]][https://www.aclweb.org/anthology/D18-1377.pdf] [[code]](https://github.com/senticnet/IARM)
+
 - **[SBP-BRiMS-18]**: Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks. [[paper]](https://arxiv.org/pdf/1804.06536.pdf) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aoa.py)
 
 - **[AAAI-19]**: Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification. [[paper]](https://arxiv.org/abs/1811.10999) [[data]](https://github.com/hsqmlzno1/MGAN)
@@ -91,6 +95,8 @@ A paper list for aspect based sentiment analysis.
 - **[ACL-19]**: Transfer Capsule Network for Aspect Level Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/P19-1052) [[code]](https://github.com/NLPWM-WHU/TransCap)
 
 - **[EMNLP-19]**: Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks. [[paper]](https://arxiv.org/pdf/1909.03477.pdf) [[code]](https://arxiv.org/pdf/1909.03477.pdf)
+
+- **[EMNLP-19]**: Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree. [paper]
 
 - **[EMNLP-19]**: Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning. [paper] [[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)
 
