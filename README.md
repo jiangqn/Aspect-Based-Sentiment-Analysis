@@ -76,7 +76,19 @@ A paper list for aspect based sentiment analysis.
 
 - **[COLING-18]**: A Position-aware Bidirectional Attention Network for Aspect-levelSentiment Analysis. [[paper]](https://www.aclweb.org/anthology/C18-1066.pdf)
 
+- **[COLING-18]**: Document-level Multi-aspect Sentiment Classification by JointlyModeling Users, Aspects, and Overall Ratings. [[paper]](https://www.aclweb.org/anthology/C18-1079.pdf)
+
 - **[EMNLP-18]**: IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D18-1377.pdf) [[code]](https://github.com/senticnet/IARM)
+
+- **[EMNLP-18]**: Aspect Based Sentiment Analysis into the Wild. [[paper]](https://www.aclweb.org/anthology/W18-6217.pdf) [[data]](https://europe.naverlabs.com/Research/Natural-Language-Processing/Aspect-Based-Sentiment-Analysis-Dataset/)
+
+- **[EMNLP-18]**: Joint Aspect and Polarity Classification for Aspect-based SentimentAnalysis with End-to-End Neural Networks. [[paper]](https://www.aclweb.org/anthology/D18-1139.pdf)
+
+- **[EMNLP-18]**: Multi-grained Attention Network for Aspect-LevelSentiment Classification. [[paper]](https://www.aclweb.org/anthology/D18-1380.pdf) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/mgan.py)
+
+- **[EMNLP-18]**: Parameterized Convolutional Neural Networks for Aspect LevelSentiment Classification. [[paper]](https://www.aclweb.org/anthology/D18-1136.pdf)
+
+- **[EMNLP-18]**: Joint Learning for Targeted Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D18-1504.pdf)
 
 - **[SBP-BRiMS-18]**: Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks. [[paper]](https://arxiv.org/pdf/1804.06536.pdf) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aoa.py)
 
@@ -125,6 +137,8 @@ A paper list for aspect based sentiment analysis.
 - **[IJCAI-18]**: Aspect Term Extraction with History Attention and Selective Transformation. [[paper]](https://arxiv.org/abs/1805.00760)
 
 - **[ACL-18]**: Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction. [[paper]](https://www.aclweb.org/anthology/P18-2094) [[code]](https://github.com/yafangy/Review_aspect_extraction)
+
+- **[EMNLP-18]**: ExtRA: Extracting Prominent Review Aspects from Customer Feedback. [[paper]](https://www.aclweb.org/anthology/D18-1384.pdf)
 
 - **[AAAI-19]**: A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. [[paper]](https://arxiv.org/pdf/1811.05082.pdf) [[code]](https://github.com/lixin4ever/E2E-TBSA)
 
