@@ -76,7 +76,7 @@ A paper list for aspect based sentiment analysis.
 
 - **[COLING-18]**: A Position-aware Bidirectional Attention Network for Aspect-levelSentiment Analysis. [[paper]](https://www.aclweb.org/anthology/C18-1066.pdf)
 
-- **[EMNLP-18]**: IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis. [[paper]][https://www.aclweb.org/anthology/D18-1377.pdf] [[code]](https://github.com/senticnet/IARM)
+- **[EMNLP-18]**: IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D18-1377.pdf) [[code]](https://github.com/senticnet/IARM)
 
 - **[SBP-BRiMS-18]**: Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks. [[paper]](https://arxiv.org/pdf/1804.06536.pdf) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aoa.py)
 
