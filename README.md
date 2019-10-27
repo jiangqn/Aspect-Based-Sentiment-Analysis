@@ -50,11 +50,17 @@ A paper list for aspect based sentiment analysis.
 
 - **[IJCAI-17]**: Interactive Attention Networks for Aspect-Level Sentiment Classification. [[paper]](https://arxiv.org/abs/1709.00893) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/ian.py)
 
+- **[CIKM-17]**: Dyadic Memory Networks for Aspect-based Sentiment Analysis. [[paper]](https://oar.a-star.edu.sg/jspui/bitstream/123456789/2270/1/CIKM2017-1.pdf)
+
 - **[EMNLP-17]**: Recurrent Attention Network on Memory for Aspect Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D17-1047) [[code]](https://github.com/lpq29743/RAM)
 
 - **[WWW-18]**: Content Attention Model for Aspect Based Sentiment Analysis. [[paper]](http://delivery.acm.org/10.1145/3190000/3186001/p1023-liu.pdf?ip=210.75.253.235&id=3186001&acc=OPEN&key=33E289E220520BFB%2E6FFDCCEC948C43C2%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1555218179_72930af7a4eda051856a87b787ca5863) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/cabasc.py)
 
 - **[AAAI-18]**: Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM. [[paper]](http://www.sentic.net/sentic-lstm.pdf)
+
+- **[AAAI-18]**: Learning to Attend via Word-Aspect Associative Fusion for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/abs/1712.05403)
+
+- **[AAAI-18]**: Learning Latent Opinions for Aspect-Level Sentiment Classification. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17327/16110)
 
 - **[NAACL-18]**: Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis. [[paper]](http://www.aclweb.org/anthology/N18-2043)
 
@@ -69,6 +75,8 @@ A paper list for aspect based sentiment analysis.
 - **[ACL-18]**: Multi-grained Attention Network for Aspect-Level Sentiment Classification. [[paper]](https://aclweb.org/anthology/D18-1380) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/mgan.py)
 
 - **[ACL-18]**: Transformation Networks for Target-Oriented Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/P18-1087) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/tnet_lf.py)
+
+- **[IJCAI-18]**: Aspect Sentiment Classification with both Word-level and Clause-level AttentionNetworks. [[paper]](https://www.ijcai.org/proceedings/2018/0617.pdf)
 
 - **[COLING-18]**: Effective Attention Modeling for Aspect-Level Sentiment Classification. [[paper]](http://aclweb.org/anthology/C18-1096)
 
@@ -118,7 +126,7 @@ A paper list for aspect based sentiment analysis.
 
 - **[EMNLP-19]**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. [[paper]](https://github.com/siat-nlp/MAMS-for-ABSA/blob/master/pdf/A_Challenge_Dataset_and_Effective_Models_for_Aspect_Based_Sentiment_Analysis.pdf) [[code]](https://github.com/siat-nlp/MAMS-for-ABSA)
 
-- **[EMNLP-19]**: A Novel Aspect-Guided Deep Transition Modelfor Aspect Based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1909.00324.pdf) [[code]](https://github.com/XL2248/AGDT)
+- **[EMNLP-19]**: A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1909.00324.pdf) [[code]](https://github.com/XL2248/AGDT)
 
 - **[EMNLP-19]**: Learning Explicit and Implicit Structures for Targeted Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1909.07593.pdf) [[code]](https://github.com/leodotnet/ei)
 
@@ -126,7 +134,7 @@ A paper list for aspect based sentiment analysis.
 
 - **[arXiv-19]**: Attentional Encoder Network for Targeted Sentiment Classification. [[paper]](https://arxiv.org/pdf/1902.09314.pdf) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aen.py)
 
-- **[arXiv-19]**: Modeling Sentiment Dependencies with Graph Convolutional Networks for Aspect-levelSentiment Classification. [[paper]](https://arxiv.org/pdf/1906.04501.pdf) [[code]](https://github.com/Pinlong-Zhao/SDGCN) 
+- **[arXiv-19]**: Modeling Sentiment Dependencies with Graph Convolutional Networks for Aspect-level Sentiment Classification. [[paper]](https://arxiv.org/pdf/1906.04501.pdf) [[code]](https://github.com/Pinlong-Zhao/SDGCN) 
 
 ### Aspect Extraction
 
