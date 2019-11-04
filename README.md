@@ -116,11 +116,11 @@ A paper list for aspect based sentiment analysis.
 
 - **[EMNLP-19]**: Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks. [[paper]](https://arxiv.org/pdf/1909.03477.pdf) [[code]](https://github.com/GeneZC/ASGCN)
 
-- **[EMNLP-19]**: Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree. [paper]
+- **[EMNLP-19]**: Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree. [[paper]](https://www.aclweb.org/anthology/D19-1569.pdf)
 
-- **[EMNLP-19]**: Capsule Network with Interactive Attention for Aspect-Level Sentiment Classification. [paper]
+- **[EMNLP-19]**: Capsule Network with Interactive Attention for Aspect-Level Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/D19-1551.pdf)
 
-- **[EMNLP-19]**: Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning. [paper] [[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)
+- **[EMNLP-19]**: Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning. [[paper]](https://www.aclweb.org/anthology/D19-1466.pdf) [[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)
 
 - **[EMNLP-19]**: CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1812.10735.pdf)
 
