@@ -114,23 +114,23 @@ A paper list for aspect based sentiment analysis.
 
 - **[ACL-19]**: Transfer Capsule Network for Aspect Level Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/P19-1052) [[code]](https://github.com/NLPWM-WHU/TransCap)
 
-- **[EMNLP-19]**: Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks. [[paper]](https://arxiv.org/pdf/1909.03477.pdf) [[code]](https://github.com/GeneZC/ASGCN)
+- **[EMNLP-19]**: Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks. [[paper]](https://www.aclweb.org/anthology/D19-1464.pdf) [[code]](https://github.com/GeneZC/ASGCN)
 
-- **[EMNLP-19]**: Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree. [[paper]](https://www.aclweb.org/anthology/D19-1569.pdf)
+- **[EMNLP-19]**: Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree. [[paper]](https://www.aclweb.org/anthology/D19-1569.pdf) [[code]](https://github.com/sunkaikai/CDT_ABSA)
 
 - **[EMNLP-19]**: Capsule Network with Interactive Attention for Aspect-Level Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/D19-1551.pdf)
 
 - **[EMNLP-19]**: Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning. [[paper]](https://www.aclweb.org/anthology/D19-1466.pdf) [[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)
 
-- **[EMNLP-19]**: CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1812.10735.pdf)
+- **[EMNLP-19]**: CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D19-1467.pdf)
 
 - **[EMNLP-19]**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D19-1654.pdf) [[code]](https://github.com/siat-nlp/MAMS-for-ABSA)
 
-- **[EMNLP-19]**: A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1909.00324.pdf) [[code]](https://github.com/XL2248/AGDT)
+- **[EMNLP-19]**: A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D19-1559.pdf) [[code]](https://github.com/XL2248/AGDT)
 
-- **[EMNLP-19]**: Learning Explicit and Implicit Structures for Targeted Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1909.07593.pdf) [[code]](https://github.com/leodotnet/ei)
+- **[EMNLP-19]**: Learning Explicit and Implicit Structures for Targeted Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D19-1550.pdf) [[code]](https://github.com/leodotnet/ei)
 
-- **[EMNLP-19]**: Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks. [[paper]](https://arxiv.org/pdf/1909.02606.pdf)
+- **[EMNLP-19]**: Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks. [[paper]](https://www.aclweb.org/anthology/D19-1549.pdf)
 
 - **[arXiv-19]**: Attentional Encoder Network for Targeted Sentiment Classification. [[paper]](https://arxiv.org/pdf/1902.09314.pdf) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aen.py)
 
