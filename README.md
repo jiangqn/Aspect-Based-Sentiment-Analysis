@@ -124,7 +124,7 @@ A paper list for aspect based sentiment analysis.
 
 - **[EMNLP-19]**: CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1812.10735.pdf)
 
-- **[EMNLP-19]**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. [[paper]](https://github.com/siat-nlp/MAMS-for-ABSA/blob/master/pdf/A_Challenge_Dataset_and_Effective_Models_for_Aspect_Based_Sentiment_Analysis.pdf) [[code]](https://github.com/siat-nlp/MAMS-for-ABSA)
+- **[EMNLP-19]**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D19-1654.pdf) [[code]](https://github.com/siat-nlp/MAMS-for-ABSA)
 
 - **[EMNLP-19]**: A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1909.00324.pdf) [[code]](https://github.com/XL2248/AGDT)
 
