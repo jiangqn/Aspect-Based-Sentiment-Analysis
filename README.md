@@ -136,9 +136,9 @@ A paper list for aspect based sentiment analysis.
 
 - **[arXiv-19]**: Modeling Sentiment Dependencies with Graph Convolutional Networks for Aspect-level Sentiment Classification. [[paper]](https://arxiv.org/pdf/1906.04501.pdf) [[code]](https://github.com/Pinlong-Zhao/SDGCN) 
 
-- **[arXiv-19]**: Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1911.01616.pdf) 
-
 - **[arXiv-19]**:  A Failure of Aspect Sentiment Classifiers and an Adaptive Re-weighting Solution. [[paper]](https://arxiv.org/pdf/1911.01460.pdf)
+
+- **[AAAI-20]**: Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1911.01616.pdf) 
 
 ### Aspect Extraction
 
