@@ -132,6 +132,8 @@ A paper list for aspect based sentiment analysis.
 
 - **[EMNLP-19]**: Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks. [[paper]](https://www.aclweb.org/anthology/D19-1549.pdf)
 
+- **[EMNLP-19]**: Recognizing Conflict Opinions in Aspect-level Sentiment Classification with Dual Attention Networks. [[paper]](https://www.aclweb.org/anthology/D19-1342.pdf) [[code]](https://github.com/tanxw17/DATGRU)
+
 - **[arXiv-19]**: Attentional Encoder Network for Targeted Sentiment Classification. [[paper]](https://arxiv.org/pdf/1902.09314.pdf) [[code]](https://github.com/songyouwei/ABSA-PyTorch/blob/master/models/aen.py)
 
 - **[arXiv-19]**: Modeling Sentiment Dependencies with Graph Convolutional Networks for Aspect-level Sentiment Classification. [[paper]](https://arxiv.org/pdf/1906.04501.pdf) [[code]](https://github.com/Pinlong-Zhao/SDGCN) 
@@ -152,8 +154,6 @@ A paper list for aspect based sentiment analysis.
 
 - **[EMNLP-18]**: ExtRA: Extracting Prominent Review Aspects from Customer Feedback. [[paper]](https://www.aclweb.org/anthology/D18-1384.pdf)
 
-- **[AAAI-19]**: A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. [[paper]](https://arxiv.org/pdf/1811.05082.pdf) [[code]](https://github.com/lixin4ever/E2E-TBSA)
-
 - **[ACL-19]**: Annotation and Automatic Classification of Aspectual Categories. [[paper]](https://www.aclweb.org/anthology/P19-1323) [[code]](https://github.com/wroberts/annotator)
 
 - **[ACL-19]**: Exploring Sequence-to-Sequence Learning in Aspect Term Extraction. [[paper]](https://www.aclweb.org/anthology/P19-1344)
@@ -162,4 +162,10 @@ A paper list for aspect based sentiment analysis.
 
 ### Target-oriented Opinion Words Extraction
 
-- **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused NeuralSequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
+- **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
+
+### Jointly Extract Aspect and Classify Aspect Sentiment
+
+- **[AAAI-19]**: A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. [[paper]](https://arxiv.org/pdf/1811.05082.pdf) [[code]](https://github.com/lixin4ever/E2E-TBSA)
+
+- **[ACL-19]**: Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification. [[paper]](https://www.aclweb.org/anthology/P19-1051.pdf)
