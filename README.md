@@ -2,6 +2,10 @@
 
 A paper list for aspect based sentiment analysis.
 
+## Survey
+
+- **[IEEE-TAC-20]**: Issues and Challenges of Aspect-based Sentiment Analysis: A ComprehensiveSurvey. [[paper]](https://ieeexplore.ieee.org/abstract/document/8976252)
+
 ## Datasets
 
 ### SemEval-2014 Task 4
@@ -84,7 +88,7 @@ A paper list for aspect based sentiment analysis.
 
 - **[COLING-18]**: A Position-aware Bidirectional Attention Network for Aspect-levelSentiment Analysis. [[paper]](https://www.aclweb.org/anthology/C18-1066.pdf)
 
-- **[COLING-18]**: Document-level Multi-aspect Sentiment Classification by JointlyModeling Users, Aspects, and Overall Ratings. [[paper]](https://www.aclweb.org/anthology/C18-1079.pdf)
+- **[COLING-18]**: Document-level Multi-aspect Sentiment Classification by Jointly Modeling Users, Aspects, and Overall Ratings. [[paper]](https://www.aclweb.org/anthology/C18-1079.pdf)
 
 - **[EMNLP-18]**: IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D18-1377.pdf) [[code]](https://github.com/senticnet/IARM)
 
@@ -163,6 +167,8 @@ A paper list for aspect based sentiment analysis.
 ### Target-oriented Opinion Words Extraction
 
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
+
+- **[AAAI-20]**: Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction. [[paper]](https://arxiv.org/pdf/2001.01989.pdf)
 
 ### Jointly Extract Aspect and Classify Aspect Sentiment
 
