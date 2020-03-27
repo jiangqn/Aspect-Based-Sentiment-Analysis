@@ -146,6 +146,8 @@ A paper list for aspect based sentiment analysis.
 
 - **[AAAI-20]**: Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1911.01616.pdf) 
 
+- **[arXiv-20]**: Exploiting Typed Syntactic Dependencies for Targeted Sentiment Classification Using Graph Attention Neural Network. [[paper]](https://arxiv.org/pdf/2002.09685.pdf)
+
 ### Aspect Extraction
 
 - **[AAAI-17]**: Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms. [[paper]](https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/15-Wang-W-14441.pdf)
