@@ -164,6 +164,8 @@ A paper list for aspect based sentiment analysis.
 
 - **[ACL-19]**: DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction. [[paper]](https://www.aclweb.org/anthology/P19-1056) [[code]](https://github.com/ArrowLuo/DOER)
 
+- **[arXiv-20]**: Aspect Term Extraction using Graph-based Semi-Supervised Learning. [[paper]](https://arxiv.org/pdf/2003.04968.pdf)
+
 ### Target-oriented Opinion Words Extraction
 
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
