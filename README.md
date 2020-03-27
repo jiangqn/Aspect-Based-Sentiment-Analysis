@@ -86,7 +86,7 @@ A paper list for aspect based sentiment analysis.
 
 - **[COLING-18]**: Enhanced Aspect Level Sentiment Classification with Auxiliary Memory. [[paper]](https://www.aclweb.org/anthology/C18-1092) [[code]](https://github.com/ThomasK427/DAuM-pytorch)
 
-- **[COLING-18]**: A Position-aware Bidirectional Attention Network for Aspect-levelSentiment Analysis. [[paper]](https://www.aclweb.org/anthology/C18-1066.pdf)
+- **[COLING-18]**: A Position-aware Bidirectional Attention Network for Aspect-level Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/C18-1066.pdf)
 
 - **[COLING-18]**: Document-level Multi-aspect Sentiment Classification by Jointly Modeling Users, Aspects, and Overall Ratings. [[paper]](https://www.aclweb.org/anthology/C18-1079.pdf)
 
