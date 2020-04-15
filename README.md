@@ -183,3 +183,5 @@ A paper list for aspect based sentiment analysis.
 - **[AAAI-19]**: A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. [[paper]](https://arxiv.org/pdf/1811.05082.pdf) [[code]](https://github.com/lixin4ever/E2E-TBSA)
 
 - **[ACL-19]**: Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification. [[paper]](https://www.aclweb.org/anthology/P19-1051.pdf)
+
+- **[arXiv-20]**: Jointly Modeling Aspect and Sentiment with Dynamic Heterogeneous Graph Neural Networks. [[paper]](https://arxiv.org/pdf/2004.06427.pdf)
