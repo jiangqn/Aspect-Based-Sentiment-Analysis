@@ -152,6 +152,10 @@ A paper list for aspect based sentiment analysis.
 
 - **[arXiv-20]**: A Dependency Syntactic Knowledge Augmented Interactive Architecture for End-to-End Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/2004.01951.pdf)
 
+- **[ACL-20]**: Relational Graph Attention Network for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/2004.12362.pdf) [[code]](https://github.com/shenwzh3/RGAT-ABSA)
+
+- **[ACL-20]**: Conditional Augmentation for Aspect Term Extraction via Masked Sequence-to-Sequence Generation. [[paper]](https://arxiv.org/pdf/2004.14769.pdf)
+
 ### Aspect Extraction
 
 - **[AAAI-17]**: Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms. [[paper]](https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/15-Wang-W-14441.pdf)
