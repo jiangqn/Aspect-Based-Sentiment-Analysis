@@ -156,6 +156,14 @@ A paper list for aspect based sentiment analysis.
 
 - **[ACL-20]**: Conditional Augmentation for Aspect Term Extraction via Masked Sequence-to-Sequence Generation. [[paper]](https://arxiv.org/pdf/2004.14769.pdf)
 
+- **[ACL-20]**: Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.293.pdf)
+
+- **[ACL-20]**: Aspect Sentiment Classification with Document-level Sentiment Preference Modeling. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.338.pdf)
+
+- **[ACL-20]**: Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.340.pdf)
+
+- **[ACL-20]**: Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.588.pdf)
+
 ### Aspect Extraction
 
 - **[AAAI-17]**: Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms. [[paper]](https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/15-Wang-W-14441.pdf)
@@ -176,11 +184,19 @@ A paper list for aspect based sentiment analysis.
 
 - **[arXiv-20]**: Aspect Term Extraction using Graph-based Semi-Supervised Learning. [[paper]](https://arxiv.org/pdf/2003.04968.pdf)
 
+- **[ACL-20]**: SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.296.pdf)
+  
+- **[ACL-20]**: Embarrassingly Simple Unsupervised Aspect Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.290.pdf)
+  
+- **[ACL-20]**: Don’t Eclipse Your Arts Due to Small Discrepancies: Boundary Repositioning with a Pointer Network for Aspect Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.339.pdf)
+
 ### Target-oriented Opinion Words Extraction
 
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
 
 - **[AAAI-20]**: Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction. [[paper]](https://arxiv.org/pdf/2001.01989.pdf)
+
+- **[ACL-20]**: Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.582.pdf) [[code]](https://github.com/NKU-IIPLab/SDRN)
 
 ### Jointly Extract Aspect and Classify Aspect Sentiment
 
@@ -189,3 +205,7 @@ A paper list for aspect based sentiment analysis.
 - **[ACL-19]**: Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification. [[paper]](https://www.aclweb.org/anthology/P19-1051.pdf)
 
 - **[arXiv-20]**: Jointly Modeling Aspect and Sentiment with Dynamic Heterogeneous Graph Neural Networks. [[paper]](https://arxiv.org/pdf/2004.06427.pdf)
+
+### Applications
+
+- **[ACL-20]**: Applying Transformers and Aspect-based Sentiment Analysis approaches on Sarcasm Detection. [[paper]](https://www.aclweb.org/anthology/2020.figlang-1.9.pdf)
