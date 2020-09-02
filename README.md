@@ -14,7 +14,7 @@ A paper list for aspect based sentiment analysis.
 
 ### MAMS
 
-- **[EMNLP-19]**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. [[paper]](https://github.com/siat-nlp/MAMS-for-ABSA/blob/master/pdf/A_Challenge_Dataset_and_Effective_Models_for_Aspect_Based_Sentiment_Analysis.pdf) [[data]](https://github.com/siat-nlp/MAMS-for-ABSA)
+- **[EMNLP-19]**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D19-1654.pdf) [[data]](https://github.com/siat-nlp/MAMS-for-ABSA)
 
 ### Twitter
 
