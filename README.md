@@ -12,6 +12,10 @@ A paper list for aspect based sentiment analysis.
 
 - **[SemEval-14]**: SemEval-2014 Task 4: Aspect Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/S14-2004) [[data]](https://github.com/ThomasK427/aspect_extraction/tree/master/data/official_data/SemEval-2014)
 
+### ARTS (Adversarial Test Set for SemEval-14)
+
+- **[EMNLP-20]**: Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/2009.07964) [[data]](https://github.com/zhijing-jin/ARTS_TestSet)
+
 ### MAMS
 
 - **[EMNLP-19]**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D19-1654.pdf) [[data]](https://github.com/siat-nlp/MAMS-for-ABSA)
