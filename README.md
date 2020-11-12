@@ -164,6 +164,18 @@ A paper list for aspect based sentiment analysis.
 
 - **[ACL-20]**: Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.588.pdf)
 
+- **[EMNLP-20]**: Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.286.pdf)
+
+- **[EMNLP-20]**: Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.292.pdf)
+
+- **[EMNLP-20]**: Inducing Target-specific Latent Structures for Aspect Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.451.pdf)
+
+- **[EMNLP-20]**: A Multi-Task Incremental Learning Framework with Category Name Embedding for Aspect-Category Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.565.pdf)
+
+- **[EMNLP-20]**: Aspect-Based Sentiment Analysis by Aspect-Sentiment Joint Embedding. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.568.pdf)
+
+- **[EMNLP-20]**: Unified Feature and Instance Based Domain Adaptation for End-to-End Aspect-based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf)
+
 ### Aspect Extraction
 
 - **[AAAI-17]**: Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms. [[paper]](https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/15-Wang-W-14441.pdf)
@@ -190,6 +202,8 @@ A paper list for aspect based sentiment analysis.
   
 - **[ACL-20]**: Don’t Eclipse Your Arts Due to Small Discrepancies: Boundary Repositioning with a Pointer Network for Aspect Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.339.pdf)
 
+- **[EMNLP-20]**: Enhancing Aspect Term Extraction with Soft Prototypes. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.164.pdf)
+
 ### Target-oriented Opinion Words Extraction
 
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
@@ -198,6 +212,10 @@ A paper list for aspect based sentiment analysis.
 
 - **[ACL-20]**: Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.582.pdf) [[code]](https://github.com/NKU-IIPLab/SDRN)
 
+- **[EMNLP-20]**: Deep Weighted MaxSAT for Aspect-based Opinion Extraction. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.453.pdf)
+
+- **[EMNLP-20]**: Introducing Syntactic Structures into Target Opinion Word Extraction with Deep Learning. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.719.pdf)
+
 ### Jointly Extract Aspect and Classify Aspect Sentiment
 
 - **[AAAI-19]**: A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. [[paper]](https://arxiv.org/pdf/1811.05082.pdf) [[code]](https://github.com/lixin4ever/E2E-TBSA)
@@ -205,6 +223,8 @@ A paper list for aspect based sentiment analysis.
 - **[ACL-19]**: Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification. [[paper]](https://www.aclweb.org/anthology/P19-1051.pdf)
 
 - **[arXiv-20]**: Jointly Modeling Aspect and Sentiment with Dynamic Heterogeneous Graph Neural Networks. [[paper]](https://arxiv.org/pdf/2004.06427.pdf)
+
+- **[EMNLP-20]**: Position-Aware Tagging for Aspect Sentiment Triplet Extraction. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.183.pdf)
 
 ### Applications
 
