@@ -6,9 +6,7 @@ A paper list for aspect based sentiment analysis.
 
 - **[IEEE-TAC-20]**: Issues and Challenges of Aspect-based Sentiment Analysis: A ComprehensiveSurvey. [[paper]](https://ieeexplore.ieee.org/abstract/document/8976252)
 
-
 ## Datasets
-
 
 ### SemEval-2014 Task 4
 
@@ -17,7 +15,6 @@ A paper list for aspect based sentiment analysis.
 ### ARTS (Adversarial Test Set for SemEval-14)
 
 - **[EMNLP-20]**: Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/2009.07964) [[data]](https://github.com/zhijing-jin/ARTS_TestSet)
-
 
 ### MAMS
 
@@ -38,7 +35,6 @@ A paper list for aspect based sentiment analysis.
 ## Paper List
 
 ### Aspect Based Sentiment Classification
-
 
 - **[SemEval-14]**: SemEval-2014 Task 4: Aspect Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/S14-2004) [[data]](https://github.com/ThomasK427/aspect_extraction/tree/master/data/official_data/SemEval-2014)
 
